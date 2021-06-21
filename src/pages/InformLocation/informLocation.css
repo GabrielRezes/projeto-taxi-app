@@ -1,0 +1,44 @@
+.form {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 600px;
+    height: 500px; 
+}
+
+.form_field {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000;     
+    padding: 25px;
+}
+
+.form_legend {
+    font-size: 1.5rem;
+}
+
+.form_label {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 3px;
+}
+
+.form_input {
+    padding: 10px 15px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.form_btn { 
+    padding: 8px;
+    font-size: 1rem;
+    font-weight: bold ;
+    color: #FFF;
+    background: #2087ed;
+    border-radius: 5px;   
+    transition: all 0.3s;    
+}
+
+.form_btn:active {
+    transform: translateY(2px);
+    box-shadow: 0 0 2px;
+}

@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  margin: 200px auto;
+  width: 800px;
+  min-height: 100%;
+}
+
+.main_title {
+  font-weight: 400;
+  font-size: 64px;
+  color: #000;
+}
+
+.main_p {
+  font-weight: 100;
+  font-size: 24px;
+}
+
+.taxi-icon {
+  height: 300px;
+  width: 500px;
+  position: absolute;
+  left: 55%;
+  top: 55%;
+}
