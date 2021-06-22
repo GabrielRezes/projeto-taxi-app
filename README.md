@@ -4,7 +4,7 @@ Aplicação Web que oferece informações sobre Ponto de Táxi na cidade de Port
 
 <img src='./src/img/img01.png' width='700px'>
 
-####Entre suas funções estão:
+Entre suas funções estão:
 - [x] Lista todos os Pontos de táxi da Cidade
 <img src='./src/img/img02.png' width='500px'>
 
